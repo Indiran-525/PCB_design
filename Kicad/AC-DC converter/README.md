@@ -12,5 +12,9 @@ A capacitor is used at the input for coupling and a few intermediate capacitors 
 
 1. 240 - 12v setp down transformer
 2. IN4001 diodes
-3. 
+3. Capacitors
+4. Zener diode
+5. Voltage regulator LM7805
+6. Resistors
+7. Led
 
