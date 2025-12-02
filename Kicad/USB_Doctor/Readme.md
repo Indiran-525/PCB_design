@@ -2,9 +2,9 @@ This is a basic usb doctor/charging monitor that measures and displays the volta
 be connected to adapters and the device has a female USB A connector on other end to which the device to be charged can be plugged in.
 
 Components:
-Atmega328p
-Ina219 sensor
-10k resistors
-ams1117 3.3v voltage regulator
-usb connectors
-capacitor - 100nf
+  1.Atmega328p
+  2.Ina219 sensor
+  3.10k resistors
+  4.ams1117 3.3v voltage regulator
+  5.usb connectors
+  6.capacitor - 100nf
